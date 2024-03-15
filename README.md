@@ -1,3 +1,3 @@
 ## Word Filter Wordpress Plugin
 
-Replaces a list of words
+Replaces a list of words.
